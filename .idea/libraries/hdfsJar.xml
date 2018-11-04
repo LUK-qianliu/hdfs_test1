@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="hdfsJar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../hdfsJar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../hdfsJar" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../hdfsJar" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../hdfsJar" recursive="false" type="SOURCES" />
+  </library>
+</component>
